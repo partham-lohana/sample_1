@@ -1,2 +1,4 @@
 # sample_1
-<PF>lab</Pf>
+<sub>subscript</sub>
+<sup>superscript</sup>
+
