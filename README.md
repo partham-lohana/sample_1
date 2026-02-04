@@ -4,3 +4,6 @@
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
 >Text that is quote
+-George Washington
+*John Adams
++Thomas Jefferson
